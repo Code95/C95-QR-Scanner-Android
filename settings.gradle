@@ -1,0 +1,1 @@
+include ':app', ':c95-qr-scanner'
